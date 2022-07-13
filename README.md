@@ -1,2 +1,2 @@
 # k8s-images
-pull images
+pull images out of CHINA
